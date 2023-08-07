@@ -125,6 +125,10 @@ public class CarBuilder : ICarBuilder
     }
 }
 ```
+## How to setup Github actions
+
+![Csharp Github actions](https://github.com/luiscoco/GoF_Csharp-5.Builder_Pattern/assets/32194879/692c0306-d6b1-4956-862c-f019b644909a)
+
 
 
 
