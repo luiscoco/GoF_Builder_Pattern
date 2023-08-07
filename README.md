@@ -1,5 +1,7 @@
 # GoF_Csharp-Builder_Pattern
 
+## Builder Pattern (Creational Patterns):
+
 Separates the construction of a complex object from its representation, allowing the same construction process to create different representations.
 
 The Builder Pattern is a creational design pattern that allows you to separate the construction of a complex object from its representation. This pattern is useful when you want to create an object with multiple parts or configurations, but you don't want to expose the details of the object's construction to the client code. It provides a step-by-step approach to building an object and allows different representations of the object to be created using the same construction process.
