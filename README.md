@@ -6,11 +6,16 @@ The Builder Pattern is a creational design pattern that allows you to separate t
 
 Here's a simple example of implementing the Builder Pattern in C#:
 
-Let's say we want to create a Car object with the following properties:
+We want to create a Car object with the following properties:
+
 Brand
+
 Model
+
 Color
+
 Engine Capacity
+
 Number of Doors
 
 ```csharp
