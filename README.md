@@ -1,5 +1,9 @@
 # GoF_Csharp-Builder_Pattern
 
+https://refactoring.guru/design-patterns/builder
+
+https://www.scholarhat.com/tutorial/designpatterns/builder-design-pattern
+
 ## Builder Pattern (Creational Patterns):
 
 Separates the construction of a complex object from its representation, allowing the same construction process to create different representations.
